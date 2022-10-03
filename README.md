@@ -1,1 +1,1 @@
-# open-thainlp-notebook
+# Open Thai NLP Notebook
